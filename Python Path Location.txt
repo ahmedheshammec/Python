@@ -1,0 +1,6 @@
+
+❯ /opt/homebrew/bin/python3.12 "/Users/Ahmed/Desktop/Python/Python Location.py"
+/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12
+
+❯ /usr/bin/python3 "/Users/Ahmed/Desktop/Python/Python Location.py"
+/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9
